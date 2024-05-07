@@ -12,7 +12,7 @@ This project uses Microsoft Azure for it's build.
 
 ## Requirements, Governance, and Architecture
 
-[Requirements, Governance, and Architecture](https://youtu.be/lMKLizmlIKI?si=zelDpxeiQD6dU52P)
+[Requirements, Governance, and Architecture Video](https://youtu.be/lMKLizmlIKI?si=zelDpxeiQD6dU52P)
 
 ## Document References
 
