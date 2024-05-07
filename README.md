@@ -12,6 +12,8 @@ This project uses Microsoft Azure for it's build.
 
 ## Requirements, Governance, and Architecture
 
+[Requirements, Governance, and Architecture](https://youtu.be/lMKLizmlIKI?si=zelDpxeiQD6dU52P)
+
 ## Document References
 
 [Secure Cloud Computing Architecture](https://rmf.org/wp-content/uploads/2018/05/SCCA_FRD_v2-9.pdf)
