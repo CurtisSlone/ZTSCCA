@@ -20,7 +20,7 @@ This project uses Microsoft Azure for it's build.
 
 ## Application and Data Trust Algorithm
 
-[Application Trust Algorith](https://youtu.be/sqI02r1pUms?si=NuWBJhaPZS5NCvgo)
+[Application Trust Algorithm](https://youtu.be/sqI02r1pUms?si=NuWBJhaPZS5NCvgo)
 
 ## Document References
 
